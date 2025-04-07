@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;model.dao.impl.DeparmentDao.java&apos; to &apos;DeparmentDaoJBDC.java&apos;&#x0D;&#x0A;- Original project: &apos;demodaojbdc&apos;&#x0D;&#x0A;- Original element: &apos;model.dao.impl.DeparmentDao.java&apos;&#x0D;&#x0A;- Renamed element: &apos;model.dao.impl.DeparmentDaoJBDC.java&apos;" description="Rename compilation unit &apos;DeparmentDao.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;model.dao.impl{DeparmentDao.java" name="DeparmentDaoJBDC.java" references="false" stamp="1744053725771" version="1.0"/>
+</session>

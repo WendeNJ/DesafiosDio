@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;model.dao.impl.SellerDaoImplJBDC&apos; to &apos;SellerDaoJBDC&apos;&#x0D;&#x0A;- Original project: &apos;demodaojbdc&apos;&#x0D;&#x0A;- Original element: &apos;model.dao.impl.SellerDaoImplJBDC&apos;&#x0D;&#x0A;- Renamed element: &apos;model.dao.impl.SellerDaoJBDC&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SellerDaoImplJBDC&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;model.dao.impl{SellerDaoImplJBDC.java[SellerDaoImplJBDC" matchStrategy="1" name="SellerDaoJBDC" qualified="false" references="true" similarDeclarations="false" stamp="1742342574781" textual="false" version="1.0"/>
+</session>
